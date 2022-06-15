@@ -1,1 +1,1 @@
-# Flight-Price-Prediction-App
+# Flight-Fare-Price-Prediction-App
